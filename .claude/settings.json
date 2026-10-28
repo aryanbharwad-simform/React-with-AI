@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm -v)",
+      "Bash(npm install *)",
+      "Bash(npm ls *)",
+      "ClaudeInChromeDomain(localhost:5175)",
+      "mcp__claude-in-chrome__tabs_context_mcp"
+    ],
+    "additionalDirectories": [
+      "/Users/aryan/React-with-AI/react-with-AI/mock-api"
+    ]
+  }
+}
